@@ -45,7 +45,7 @@ bot: 1, 2
 3 - Nunca deve responder "I have no answer for that" e sim "Não entendi, pode falar de outra forma?", por exemplo:
 
 ```
-you: Se jaca fura o pneu da minha bicileta, o azul cai no chão?
+you: Se jaca fura o pneu da minha bicicleta, o azul cai no chão?
 bot: Não entendi, pode falar de outra forma?
 ```
 
@@ -60,4 +60,4 @@ Seu projeto será avaliado de acordo com os seguintes critérios:
 1. Sua aplicação atende funcionalmente o que foi pedido.
 2. Seu repositório no Github tem um README.md explicando o que seu bot faz.
 3. As variações que seu bot compreende demonstram um estudo sobre AIML.
-4. Criativade nas variações e frases (sim! é uma vaga que exige criativdade).
+4. Criatividade nas variações e frases (sim! é uma vaga que exige criatividade).
