@@ -8,7 +8,7 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 
 ## Instruções para entrega do desafio
 
-1. Crie um login no Pandorabots: [https://playground.pandorabots.com/en](https://playground.pandorabots.com/en)
+1. Crie um login no Pandorabots: [https://playground.pandorabots.com/en/](https://playground.pandorabots.com/en/)
 2. Crie um bot novo de acordo com o desafio descrito abaixo.
 3. Após terminar, publique seu bot no Pandorabots (SeuBot > Publish).
 4. Exporte seu bot (SeuBot > Files > Seta para baixo) e suba o código no Github
